@@ -3,4 +3,6 @@ Activité Partie 2 : Partager un repository sur GitHub
 
 L'URL de mon repository :
 (exemple : https://github.com/marcgg/Simple-Placeholder)
+Voici l'url de mon repository Github : https://github.com/sakhavat/exo_git.git
+
 
